@@ -3,7 +3,7 @@ public class CipherTest {
 
     public static void main(String[] args)   
      {
-        Cipher cipher = new Cipher();
+              Cipher cipher = new Cipher();
 
         // text1 is used for testing, encrypting followed by decrypting should return the original text
         String text1 = "this should be encrypted now!";
